@@ -1,6 +1,6 @@
 {
   "name": "@timvdeijnden/storybook",
-  "version": "4.3.2",
+  "version": "4.3.3",
   "description": "Storybook integration with NuxtJS",
   "repository": "TimvdEijnden/nuxt-storybook",
   "license": "MIT",
